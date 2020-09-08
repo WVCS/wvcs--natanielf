@@ -1,7 +1,14 @@
 h1, h2 {
   color: red;
-  text-align: center;
   font-family: courier;
+}
+
+div {
+  text-align: center;
+}
+
+img {
+  border-radius: 8px;
 }
 
 body {
