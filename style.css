@@ -9,8 +9,12 @@ div {
 
 img {
   border-radius: 8px;
-  max-width: 35%;
+  max-width: 30%;
   height: auto;
+}
+
+iframe {
+  border-radius: 8px;
 }
 
 body {
