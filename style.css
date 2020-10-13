@@ -13,10 +13,6 @@ img {
   height: auto;
 }
 
-.container {
-  padding-top: 75%;
-}
-
 iframe {
   border-radius: 8px;
   position: absolute;
