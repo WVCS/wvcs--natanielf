@@ -5,7 +5,10 @@ h1, h2 {
 }
 
 div {
-  text-align: center;
+  text-align:center;
+  display: grid;
+  grid-template-column: 1fr;
+  place-items: center;  
 }
 
 img {
@@ -15,10 +18,7 @@ img {
 }
 
 iframe {
-  border-radius: 8px;
-  position: absolute;
-  width: 40%;
-  height: auto;
+  width: 100%;
 }
 
 body {
